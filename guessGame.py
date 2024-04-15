@@ -8,11 +8,17 @@ len = 5
 guess = 0
 
 #get random number
-rdn_num = random.randint(0, len)
+rdn_num = random.randint(1, len)
 
-while(guess != rdn_num):
-    print("What is your guess?")
-    guess = input("guess")
-    
-    if(guess == rdn_num):
-        print("You are right!")
+if(mistakes <= 0):
+    while(guess != rdn_num):
+        print("What is your guess?")
+        guess = input("guess")
+
+        if(guess == rdn_num):
+            print("You are right!")
+        else:
+            mistakes = mistakes - 1
+            print("You have " + mistakes + " tries left!")
+else:
+    print("You are out!")
