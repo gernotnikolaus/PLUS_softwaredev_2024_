@@ -2,3 +2,5 @@
 
 This is the repository of Gernot.
 It is used during the course Software Development - Practice(Python).
+
+# Assignment 02: conda
