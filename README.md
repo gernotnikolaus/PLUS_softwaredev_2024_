@@ -5,7 +5,8 @@ It is used during the course Software Development - Practice(Python).
 
 # Assignment 02: conda
 
-## creating the “softdev_navigator” environment
-![grafik](https://github.com/gernotnikolaus/PLUS_softwaredev_2024_GN/assets/148253460/6c249955-1686-42e7-bd91-2421750dfc86)
-![grafik](https://github.com/gernotnikolaus/PLUS_softwaredev_2024_GN/assets/148253460/e0c79c5e-61aa-447c-976d-37692e39a253)
+## creating and activating the software_dev_v1.yml environment
+![grafik](https://github.com/gernotnikolaus/PLUS_softwaredev_2024_GN/assets/148253460/760bc59f-003c-4c00-a730-4f01c356a354)
 
+## creating the activating software_dev_v2.yml environment
+![grafik](https://github.com/gernotnikolaus/PLUS_softwaredev_2024_GN/assets/148253460/0a02e490-1fce-4b76-9724-650be30a899c)
