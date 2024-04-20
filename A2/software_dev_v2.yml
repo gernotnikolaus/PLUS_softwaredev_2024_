@@ -1,0 +1,8 @@
+﻿name: software_dev_v2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - jupyterlab
+  - rasterio
