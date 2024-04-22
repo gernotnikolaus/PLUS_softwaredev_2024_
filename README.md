@@ -5,8 +5,8 @@ It is used during the course Software Development - Practice(Python).
 
 # Assignment 02: conda
 No errors were encountered and the recreation of the environments worked out without any problems.
-- The two files were downloaded and moved to the exercise directory
-- The terminal is set to the path to this directory
+- The two files were downloaded and moved to the exercise directory,
+- the terminal is set to the path to this directory,
 - and then the presented code is runned to recreate the environments
 
 ## creating and activating the software_dev_v1.yml environment
